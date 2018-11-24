@@ -26,3 +26,13 @@ using our local database.It was working somewhat fine but the data needs to be l
 #### making the features of the project ready
 #### Data visualisation
 
+![signin](https://user-images.githubusercontent.com/41308248/48965652-4190fb00-ef76-11e8-8dc9-243eb0420afa.JPG)
+
+![scaled-dashboard](https://user-images.githubusercontent.com/41308248/48965662-7735e400-ef76-11e8-97db-793a3e9815e5.PNG)
+
+![scaled-dashboard-mobile](https://user-images.githubusercontent.com/41308248/48965670-874dc380-ef76-11e8-9e9f-149678688d7c.PNG)
+
+![tabetview](https://user-images.githubusercontent.com/41308248/48965674-90d72b80-ef76-11e8-9d32-440fef15e66d.png)
+
+![tabletview2](https://user-images.githubusercontent.com/41308248/48965676-9df41a80-ef76-11e8-907c-e3e2871cf6a8.PNG)
+
