@@ -17,12 +17,12 @@ using our local database.It was working somewhat fine but the data needs to be l
 
 # NEXT WEEK TO DO'S
 
-### Making the new decided features up and working.
-### Debug the glitches and errors(regarding the database).
-### The data from mysql is shown in front end(a bug which messes the responsiveness of the page).
+#### Making the new decided features up and working.
+#### Debug the glitches and errors(regarding the database).
+#### The data from mysql is shown in front end(a bug which messes the responsiveness of the page).
 
 # Backlog
 
-### making the features of the project ready
-### Data visualisation
+#### making the features of the project ready
+#### Data visualisation
 
