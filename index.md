@@ -20,7 +20,7 @@ using our local database.It was working somewhat fine but the data needs to be l
 ### Debug the glitches and errors(regarding the database).
 ### The data from mysql is shown in front end(a bug which messes the responsiveness of the page).
 
- ### Backlog
+# Backlog
 
 ### making the features of the project ready
 ### Data visualisation
